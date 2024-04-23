@@ -1,20 +1,3 @@
-# I want no association with what is listed below
-
-Persons:
-- [AbstractMelon](https://github.com/abstractmelon)
-- [Codemob](https://github.com/codemob-dev)
-- [UnluckyCrafter](https://github.com/minidogg)
-- [David](https://github.com/mathlover3)
-
-Projects:
-- Splotch
-- SplotchLib
-
-Other:
-- Bopl Battle (game)
-- The Bopl Battle modding community
-
-
 ### Hello!
 
 I am a 15 (may be out of date) year old developer from Washington state (Northwest corner of the "main US" area)
@@ -51,3 +34,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite species of frog is the Green Tree Frog.
 -->
+
+
+# I want no association with what is listed below
+
+Persons:
+- [AbstractMelon](https://github.com/abstractmelon)
+- [Codemob](https://github.com/codemob-dev)
+- [UnluckyCrafter](https://github.com/minidogg)
+- [David](https://github.com/mathlover3)
+
+Projects:
+- Splotch
+- SplotchLib
+
+Other:
+- Bopl Battle (game)
+- The Bopl Battle modding community
