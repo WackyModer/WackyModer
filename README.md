@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 -->
 
 
-# I want no association with what is listed below
+# Due to recent stuff I want no association with who/what is listed below
 
 Persons:
 - [AbstractMelon](https://github.com/abstractmelon)
