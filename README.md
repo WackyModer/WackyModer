@@ -51,3 +51,5 @@ Projects:
 Other:
 - Bopl Battle (game)
 - The Bopl Battle modding community
+
+### I will be holding onto the BoplMods.net domain until further notice, fuck yall.
