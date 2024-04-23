@@ -1,3 +1,6 @@
+## If you come from the Bopl community, scroll down.
+
+
 ### Hello!
 
 I am a 15 (may be out of date) year old developer from Washington state (Northwest corner of the "main US" area)
