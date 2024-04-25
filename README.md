@@ -1,6 +1,3 @@
-## If you come from the Bopl community, scroll down.
-
-
 ### Hello!
 
 I am a 15 (may be out of date) year old developer from Washington state (Northwest corner of the "main US" area)
@@ -38,18 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My favorite species of frog is the Green Tree Frog.
 -->
 
-
-# Due to recent stuff I want no association with who/what is listed below
-
-Persons:
-- [Codemob](https://github.com/codemob-dev)
-
-Projects:
-- Splotch
-- SplotchLib
-
-Other:
-- Bopl Battle (game)
-- The Bopl Battle modding community
-
-### I will be holding onto the BoplMods.net domain until further notice, fuck yall.
+If you're here because some drama, [this will be relevant](https://boplmods.net)
