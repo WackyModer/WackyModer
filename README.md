@@ -42,10 +42,7 @@ Here are some ideas to get you started:
 # Due to recent stuff I want no association with who/what is listed below
 
 Persons:
-- [AbstractMelon](https://github.com/abstractmelon)
 - [Codemob](https://github.com/codemob-dev)
-- [UnluckyCrafter](https://github.com/minidogg)
-- [David](https://github.com/mathlover3)
 
 Projects:
 - Splotch
