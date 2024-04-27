@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My favorite species of frog is the Green Tree Frog.
 -->
 
-If you're here because some drama, [this will be relevant](https://boplmods.net)
+If you're here because some drama, [this will be relevant](https://boplmods.net/bye)
