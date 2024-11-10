@@ -1,4 +1,4 @@
-## I will be inactive for about a month due to an IRL situation.
+## I will be inactive for about a month due to an IRL situation. I also may not be active at all, ever.
 
 ### Hello!
  
