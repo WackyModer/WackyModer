@@ -20,33 +20,3 @@ I primarily program in the following languages:
 <img src="https://profile-counter.glitch.me/wackymoder/count.svg" />
 
 ![trofy :3](https://github-profile-trophy.vercel.app/?username=wackymoder&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
- 
-=======
-### Hi there 👋
-
->>>>>>> 5e967ce (Create README.md)
-<!--
-**WackyModer/WackyModer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<<<<<<< HEAD
-- 🔭 I’m currently working on learning QBasic for MS-DOS
-- 🌱 I’m currently learning QBasic for MS-DOS
-- 👯 I’m looking to collaborate on [placeholder variable]
-- 🤔 I’m looking for help with [placeholder variable]
-- 💬 Ask me about pretty much anything. I will most likely answer.
-- 📫 How to reach me: You can message me through Github I beleive
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite species of frog is the Green Tree Frog.
-=======
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
->>>>>>> 5e967ce (Create README.md)
--->
